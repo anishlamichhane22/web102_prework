@@ -1,10 +1,10 @@
 # WEB102 Prework - Sea Monster Crowdfunding Dashboard
 
-Submitted by: **Your Name Here**
+Submitted by: **Anish Lamichhane**
 
 **Sea Monster Crowdfunding Dashboard** is a website for the company Sea Monster Crowdfunding that displays details about the games they have funded and the remaining funding needs.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -24,10 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with your actual walkthrough GIF or video link -->
-GIF created with ScreenToGif on Windows
+[Video Walkthrough](https://www.loom.com/share/6589c3d6cb4b4ef7adc04bb607d6ccf1)
 
 ## Notes
 
@@ -35,23 +32,7 @@ I used JavaScript DOM manipulation, `reduce()`, `filter()`, and `sort()` to buil
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Anish Lamichhane
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
